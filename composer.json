@@ -1,0 +1,16 @@
+{
+    "name": "zhouyao/weixin",
+    "autoload": {
+        "psr-4": {
+            "Zhouyao\\Weixin\\": "src/"
+        }
+    },
+    
+    "authors": [
+        {
+            "name": "zhouyao",
+            "email": "18571906663@163.com"
+        }
+    ],
+    "require": {}
+}
